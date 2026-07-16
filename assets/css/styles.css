@@ -175,3 +175,13 @@ a {
   color: #ffffff;
 }
 
+.h1, h1 {
+  font-size: 1rem;
+}
+
+.h2, h2 {
+  font-size: 1rem;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
