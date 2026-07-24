@@ -185,3 +185,18 @@ a {
   margin-bottom: 10px;
 }
 
+.portfolio-footer a {
+  transition: opacity 0.3s ease;
+}
+
+.portfolio-footer a:hover {
+  opacity: 0.7;
+}
+
+@media (max-width: 767px) {
+  .portfolio-footer {
+    padding: 20px 0;
+  }
+}
+
+
